@@ -4,3 +4,10 @@ Location: West US 2
 Admin: serviggo-admin
 Password: 0zk@nY@zg@n6!
 Database Name: Serviggo_DB
+
+VM Name: serviggo-vm
+Location: West US 2
+Username: serviggo-admin
+O/S Ubuntu Server 24.04 LTS x64 Gen2
+Key Type: RSA SSH Format
+Key Pair Name: serviggo-vm_key
